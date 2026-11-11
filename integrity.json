@@ -1,0 +1,50 @@
+{
+  "1.1.0": {
+    "chiplets.all.js": "sha384-T5OOunizCCqLH+iroxb8Ulr9wGFkwqWNhLDB4wYieb3YZd2RLfFh+Cvb4Lk0xCDt",
+    "chiplets.js": "sha384-n75xAquDgqdiyyE9fP4ITEdDBD8PfkZYSyrdxHUE0IWsIGMun4NmWmkQlXJ4uyqD",
+    "games/crash.js": "sha384-H0Fhqs8O0vnNReQ5XHsCbq5hEdsg0W98RQaG0qB7qdpFaE6Z/qo3fKFQgYh8c8xX",
+    "games/mines.js": "sha384-9ci/OiKSBXSrLnVrmyBKrtH+wM1rfpEIZf6VdqqZmOxYfHYSBe7yJuC3g7m2n3Rb",
+    "games/plinko.js": "sha384-qw/f4Bbp6EY51w4JfVAeN1bnOcCsc4bZIrLJl6+AM2bqI5QJQBUnazcJm1I+zRTE",
+    "games/slots.js": "sha384-2EH/1eP8NQ3IDZw20BCAFCZN4Arh9CK7O3lBWeaTbX/+j0bR2pi3Yn3a/VFAph5o"
+  },
+  "1.2.0": {
+    "chiplets.all.js": "sha384-uaRPLRrCFoaen1E0pe8UFouW/+ycQ8yGXTeo0FIR/9+j90ItgWoHzFm6IafPNgVm",
+    "chiplets.js": "sha384-34z8El7n9IVVEaVUqqPTWjKRiD0SOt9Y6GLfjCajbxK/8TUnsu5NR1QEylVa0VHx",
+    "games/crash.js": "sha384-EImnA10b71ZRZx1Lx2GuXcJaMWWNtr1dWgPYSkXLKXLBkeowV4nNGzyJe688LwXm",
+    "games/mines.js": "sha384-/o66mePMJR2yFvQeAc9nJxyjYsi5ru58E5054zhNsrUG8lfXxhJIA7DbTIfZDOEq",
+    "games/plinko.js": "sha384-oFBMIaWP0idhQNPp/LxTKY4w4HcGdiYUhk8BAMHP8O2IcpV/oG7YhIAPkyvyV7HM",
+    "games/slots.js": "sha384-wSa1GUxGPpRy33u9BifPX/wHTLOS/915KyA18NeWdynAfRD5+uyxuEwWhL7fzqKc"
+  },
+  "1.3.0": {
+    "chiplets.all.js": "sha384-3spjPtg8EMLA8o8GVAnAx+1XBLbSE/Anx3gEwmOw6aUgwNlLq+xeguOQ4G8zeA4i",
+    "chiplets.js": "sha384-q2TPwpfxuaQppSl50I0VDh7SojZbITa1T4+gkCWgN9cYpy4FjMpwztd1pteti+HY",
+    "games/crash.js": "sha384-sa8MdTKXRSwHqbO1lIY6HK9Y+YwvuDUvb/WI5PcNaDzqALXILmXk5lyaZruZ1diH",
+    "games/mines.js": "sha384-e5ad/dTp4L+YzMaDtSkqxdFOC/riCHM6p+DGBW4egK/vlnjWV8mlgytlIRCISHB8",
+    "games/plinko.js": "sha384-2IIis9o/Mn1MP9EpCrtNIQZPnPr1CmGN6mQBwnnfoTICw8sVagr8V4n31+KR5ScW",
+    "games/slots.js": "sha384-FJCzMI05N/6cfyvuMLRQMZuKCF/otijPJIGMxIF8AAdPgHxliTq8ms5cuJHwyBN0"
+  },
+  "1.3.1": {
+    "chiplets.all.js": "sha384-Sy/DnAg9JnHcsvJ5NWBI9+1Vz7tuPMW/IQCQskQ29n1JE0nZULmq/eyhG3erSTcb",
+    "chiplets.js": "sha384-qqR31mtTAU977RK6FYiDP77Rip4KRzYqNPynll+FTVvBFJF+oAJEcFYoL+4nvZaw",
+    "games/crash.js": "sha384-44EM/zZDAlvrAweIwip/PnP6Sv+hW+my5e3Dy2vXLSCeY2d1t+YbZ5pJraR6rbqO",
+    "games/mines.js": "sha384-hNuu/DIaxnOCYXXfiwcjGvQVIX4NztuKFgRxnvrzgmqkOUFe0C+rZDqqY1QH3/40",
+    "games/plinko.js": "sha384-Un7SkR9t99LIoXtqjegkSMRZyuyasaz3tqsSE8jea6Prl/WcqA25JbyshIUPUHc9",
+    "games/slots.js": "sha384-SDqaEgqqcky9GFMtpgLpUDYrTnyGaNAJO/eE8uLOo1ILpWr0NWgC+Xegbjb24fim"
+  },
+  "1.3.2": {
+    "chiplets.all.js": "sha384-ksnmd+tC0kljnIRCwEnNJzl16A6wda85d4nM60sQEjkEu1qzQYXZM1tif3GQmD/m",
+    "chiplets.js": "sha384-sdehhyrrydvxWbCUCzk1hm1sGpwVqCZb59fepNVe+i2d710Pe/O+U7CtxnNyCiMu",
+    "games/crash.js": "sha384-Obwg6ZOiWdy1yrXqlsOaIP1WuwktpHW1LbM8LLcg4ZSx8u8LRGeeCTDDfpY7fP9H",
+    "games/mines.js": "sha384-8PkMxl+BQLTsQZgGV7izyHga0eyQDrLZFf3IEVoDGV4H768SCAjRjNpZhb9jDh18",
+    "games/plinko.js": "sha384-14EtpGhFCrlYpv2YwNtAOlL9eQPgxkp959aKonS49t9Xa6e4JHCiaEhO7GjDPEyV",
+    "games/slots.js": "sha384-mFuZrwlSFqn74uXhApd+LFQtDLSLdc2JXJxuLcJ4e8MBL4v3LXd8oDSqLZdUrDEx"
+  },
+  "1.3.3": {
+    "chiplets.all.js": "sha384-xSW//2msZ7bDGlORWmpEzQQp/h6QFOD8Lc5jbqt5OnLjaxafZkkQ7HJL0+cvGNCm",
+    "chiplets.js": "sha384-RenxI8nV4WCWpRcrHhF+FMyMEU4n/Ff+Mmj35YTR0KzjUuJQDiI511nQBTsUDpAs",
+    "games/crash.js": "sha384-jsaG07QewZzUDX2G4rchyFnigdeTtQgki9bPHBvxnuN0D1tYrri1uLtu6os94bfd",
+    "games/mines.js": "sha384-b7nhywuWdhl5vOZwJ94iyTtIvipv62WV3+NkM/n2pg1BVyxuNbzc7Y0vi7oX5vON",
+    "games/plinko.js": "sha384-xl2UI2+YOhn2G1EMBiU+7ciLMRerRpi/ov45VbCZ7ik1a79nAAAFlA4SVQhGyAYG",
+    "games/slots.js": "sha384-N6pKxm7B1GiYlRZafwyu2nqGuL0TJrbmMpYCQ85A0gPKYH2lELQ/fIiFKGBqc+aU"
+  }
+}

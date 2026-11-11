@@ -1,0 +1,4 @@
+body { margin: 0; padding: 24px 16px 64px; background: #0f0c1a; color: #f4f1ff; font: 16px/1.6 system-ui, sans-serif; }
+h1, p { max-width: 1160px; margin: 0 auto 8px; }
+p { color: #a49dc2; margin-bottom: 24px; }
+main { max-width: 1160px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; align-items: start; }

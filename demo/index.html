@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chiplets demo</title>
+<link rel="stylesheet" href="demo.css">
+<!-- The local build. On your own site, use https://chiplets.dev/v1/chiplets.js (see the README). -->
+<script src="../dist/chiplets.js" defer></script>
+</head>
+<body>
+<h1>Chiplets demo</h1>
+<p>Four games, one play-money wallet, built from this repository by <code>npm run demo</code>.</p>
+<main>
+  <chip-slots></chip-slots>
+  <chip-plinko rows="12" risk="medium"></chip-plinko>
+  <chip-mines mines="3"></chip-mines>
+  <chip-crash auto="2"></chip-crash>
+</main>
+</body>
+</html>
